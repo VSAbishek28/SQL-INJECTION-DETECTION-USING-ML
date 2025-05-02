@@ -1,0 +1,4 @@
+cd D:\SQL-INJECTION-DETECTION-USING-MACHINE-LEARNING
+pip install flask
+flask run
+python connector_app.py
