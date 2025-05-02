@@ -1,4 +1,3 @@
-Here’s a more **detailed and polished version** of your README content while keeping it professional and clear:
 
 ---
 
